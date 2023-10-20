@@ -8,6 +8,8 @@ html {
   scroll-behavior: smooth;
 }
 
+/* why is scrollbar still fucked */
+
 a{
     text-decoration: none;
     color: #fff;
